@@ -1,0 +1,53 @@
+.spacer {
+  flex: 1 1 auto;
+}
+
+.conteiner {
+  margin-left: 10px;
+}
+
+.box {
+  margin: 0.5%;
+}
+
+.box table {
+  align-items: center;
+  left: 100px;
+}
+
+.ajustar {
+  height: 90%;
+
+}
+
+.lupa {
+  position: absolute;
+  top: 70px;
+  right: 20px;
+}
+
+.buscador {
+  position: absolute;
+  top: 60px;
+  right: 70px;
+}
+
+table {
+  width: 90%;
+  height: auto;
+  position: absolute;
+  top: 150px;
+}
+
+center {
+  text-align: center;
+}
+
+
+
+::ng-deep .mat-form-field-flex > .mat-form-field-infix { padding: 0.4em 0px !important;}
+
+
+::ng-deep .mat-form-field-appearance-outline.mat-form-field-can-float.mat-form-field-should-float .mat-form-field-label {
+  transform: scale(.75);
+}

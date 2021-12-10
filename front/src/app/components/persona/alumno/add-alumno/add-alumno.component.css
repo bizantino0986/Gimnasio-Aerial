@@ -1,0 +1,19 @@
+.label-container .mat-form-field + .mat-form-field {
+  margin-left: 30px;
+}
+
+.container {
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 20px;
+  align-items: center;
+}
+
+.base {
+  background: #300F36;
+  color: aliceblue;
+}
+
+mat-grid-tile {
+  color: black;
+}
